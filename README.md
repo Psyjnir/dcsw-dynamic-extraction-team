@@ -1,6 +1,6 @@
 This script makes use of the MIST library for DCS: World.
 
-Wrote a custom Lua script to allow for dropping units off from the recently released UH-1H Huey helicopter and then picking them up again after a set amount of time.
+Wrote a custom Lua script to allow for dropping units off from the recently released UH-1H Huey helicopter and then picking them up again after a set amount of time. This script also controls an automated process for asset verification via two AI UH-60 Blackhawk helicopters should no players slot into UH-1H Huey positions.
 
 * Group dynamically spawns at User's location
 * Group spawns on the side of the Huey closest to the objective that they're moving towards
